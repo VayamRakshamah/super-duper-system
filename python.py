@@ -167,3 +167,10 @@ if __name__ == "__main__":
 	
 	# The code is finished 
 	# Further improvements to be made  
+	
+	#print False == 0
+	#print True == 1
+
+	#print True + True + True
+	#print True + False + False
+
