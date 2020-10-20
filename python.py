@@ -163,7 +163,7 @@ if __name__ == "__main__":
 					command=lambda: press('.'), height=1, width=7) 
 	Decimal.grid(row=6, column=0) 
 	# start the GUI 
-	gui.mainloop() 
+		gui.mainloop() 
 	
 	# The code is finished 
 	# Further improvements to be made  
