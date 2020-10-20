@@ -89,7 +89,7 @@ if __name__ == "__main__":
 	# in table like structure . 
 	expression_field.grid(columnspan=4, ipadx=70) 
 
-	equation.set('enter your expression') 
+	equation.set('enter your expression, nana') //added by Rohit
 
 	# create a Buttons and place at a particular 
 	# location inside the root window . 
